@@ -1,4 +1,4 @@
-# 🧮 Sure Pro Education Scientific Calculator
+# 🧮Scientific Calculator
 
 A terminal-based scientific calculator built in Python, designed for students, educators, and developers to explore core programming concepts and mathematical operations.
 
