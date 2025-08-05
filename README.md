@@ -46,13 +46,4 @@ A terminal-based scientific calculator built in Python, designed for students, e
 
 ---
 
-## 🛠️ Getting Started
 
-### Prerequisites
-- Python 3.x
-
-### Installation
-```bash
-git clone https://github.com/your-username/sure-pro-calculator.git
-cd sure-pro-calculator
-python calculator.py
